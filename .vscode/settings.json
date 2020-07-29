@@ -1,0 +1,9 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "files.associations": {
+        "algorithm": "cpp",
+        "list": "cpp",
+        "iostream": "cpp"
+    }
+}
